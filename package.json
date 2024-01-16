@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "build:css": "tailwindcss build src/assets/css/tailwind.css -o public/css/tailwind.css"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.1",

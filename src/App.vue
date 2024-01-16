@@ -1,26 +1,42 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <MainPage />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
+import '@fortawesome/fontawesome-free/css/all.css';
+import './main.css'
+import MainPage from './components/MainPage.vue';
+
 
 export default {
   name: 'App',
+  metaInfo: {
+    title: 'QuirkWeb Studios - Where Digital Delight Meets Distinction!',
+    meta: [
+      {
+        name: 'description',
+        content: 'QuirkWeb Studios - Offering stunning website design solutions for businesses.'
+      },
+      {
+        name: 'keywords',
+        content: 'web design, website development, QuirkWeb Studios, software developer, price of wesite'
+      },
+      {
+        name: 'author',
+        content: 'Susan Wairimu'
+      },
+      {
+        name: 'viewport',
+        content: 'width=device-width, initial-scale=1.0'
+      },
+    ],
+  },
   components: {
-    HelloWorld
-  }
+    MainPage
+  },
+
 }
 </script>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
+<style scoped></style>
