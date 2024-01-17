@@ -2,7 +2,42 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
-.fab {
+.dark {
+
+    background: #202A44;
+    color: #fff !important;
+}
+
+.dark section {
+
+    background: #202A44;
+    color: #fff !important;
+}
+
+.dark P {
+
+
+    color: #fff !important;
+}
+
+.dark .nav-title {
+    color: #fff;
+}
+
+.dark div {
+
+    background: #202A44;
+    color: #fff !important;
+}
+
+.light {
+
+    background-color: #fff;
+    color: #202A44;
+}
+
+.fab,
+.fas {
     font-size: 1.5rem;
 }
 
@@ -16,11 +51,6 @@
 
 
 
-.dark {
-    background: #1a202c;
-    color: #fff;
-}
-
 nav a {
     color: inherit;
     text-decoration: none;
@@ -28,22 +58,4 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
-}
-
-#scrollToTopBtn {
-    position: fixed;
-    bottom: 2rem;
-    right: 2rem;
-    display: none;
-    background-color: #3498db;
-    color: #fff;
-    border: none;
-    border-radius: 50%;
-    padding: 10px 15px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-#scrollToTopBtn:hover {
-    background-color: #2980b9;
 }

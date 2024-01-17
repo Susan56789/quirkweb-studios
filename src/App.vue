@@ -11,6 +11,8 @@ import MainPage from './components/MainPage.vue';
 
 export default {
   name: 'App',
+
+
   metaInfo: {
     title: 'QuirkWeb Studios - Where Digital Delight Meets Distinction!',
     meta: [
@@ -37,6 +39,8 @@ export default {
   },
 
 }
+
+
 </script>
 
 <style scoped></style>
