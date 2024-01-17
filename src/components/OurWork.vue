@@ -45,6 +45,7 @@
 </template>
 
 <script>
+
 export default {
     name: 'OurWork',
     data() {
@@ -57,15 +58,17 @@ export default {
             try {
                 const response = await fetch('/websites.json');
                 this.doneWebsites = await response.json();
-
             } catch (error) {
                 console.error('Error fetching done websites:', error);
             }
         },
     },
     mounted() {
+        this.fetchDoneWebsites = this.fetchDoneWebsites.bind(this);
         this.fetchDoneWebsites();
     },
+
+
 }
 </script>
 
