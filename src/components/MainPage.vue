@@ -10,27 +10,27 @@
         </button>
       </div>
 
-      <section id="about-us" class="p-8 sm:p-3">
+      <section id="about-us" class="p-4 sm:p-8 md:p-12 lg:p-16 xl:p-20">
 
         <AboutUs />
 
       </section>
-      <section id="done-websites" class="p-8">
+      <section id="done-websites" class="p-4 sm:p-8 md:p-12 lg:p-16 xl:p-20">
 
         <OurWork />
       </section>
 
 
-      <section id="pricing" class="p-8">
+      <section id="pricing" class="p-4 sm:p-8 md:p-12 lg:p-16 xl:p-20">
 
         <OurPrices />
       </section>
 
-      <section id="contact" class="p-8">
+      <section id="contact" class="p-4 sm:p-8 md:p-12 lg:p-16 xl:p-20">
 
         <ContactUs />
       </section>
-      <section class="pt-8">
+      <section class="p-4 sm:p-8 md:p-12 lg:p-16 xl:p-20">
         <FooterPage />
       </section>
     </div>
