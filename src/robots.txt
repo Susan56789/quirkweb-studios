@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /private/
-Disallow: /secret-page.html
-Allow: /public/
+Disallow:
 
 Sitemap: https://quirkwebstudios.netlify.app/sitemap.xml
