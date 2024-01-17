@@ -2,7 +2,7 @@
     <div tabindex="0" class="focus:outline-none">
         <h1 class="font-bold  text-4xl my-4">Our Work</h1>
         <div class="mx-auto container">
-            <div class="flex flex-wrap items-center lg:justify-center justify-center">
+            <div class="flex flex-wrap items-center lg:justify-center justify-center shadow-lg">
 
                 <div v-for="website in doneWebsites" :key="website.id" tabindex="0"
                     class="focus:outline-none mx-2 w-72 xl:mb-0 mb-8">

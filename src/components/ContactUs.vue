@@ -3,7 +3,7 @@
 
         <div class="container mx-auto my-4 px-4 lg:px-20">
 
-            <div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-40 mr-auto rounded-2xl shadow-2xl">
+            <div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-40 mr-auto rounded-2xl shadow-lg">
                 <div class="flex flex-col text-black">
                     <h1 class="font-bold uppercase text-5xl">Send us a <br /> message</h1>
                 </div>
@@ -33,7 +33,7 @@
                 </div>
             </div>
 
-            <div class="w-full lg:-mt-96 lg:w-2/6 px-8 py-12 ml-auto bg-purple-900 rounded-2xl">
+            <div class="w-full lg:-mt-96 lg:w-2/6 px-8 py-12 ml-auto bg-purple-900 rounded-2xl shadow-lg">
                 <div class="flex flex-col text-white">
                     <h1 class="font-bold uppercase text-4xl my-4">Get in touch</h1>
                     <p class="text-gray-400"> Send Us a message

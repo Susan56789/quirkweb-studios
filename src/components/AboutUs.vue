@@ -30,8 +30,8 @@
                         <div class="w-full md:w-6/12 px-4">
                             <div class="relative flex flex-col mt-4">
                                 <div class="px-4 py-5 flex-auto">
-                                    <div
-                                        class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
+                                    <div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5
+                                         shadow-lg rounded-full bg-white">
                                         <i class="fas fa-sitemap"></i>
                                     </div>
                                     <h6 class="text-xl mb-1 font-semibold">Website Design and Development</h6>
@@ -113,7 +113,7 @@
                 <div class="w-full mt-8 md:mt-0">
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
                         <!-- Mission Card -->
-                        <div class="bg-white p-6 rounded-lg shadow-md">
+                        <div class="bg-white p-6 rounded-lg shadow-lg">
                             <h3 class="text-xl font-semibold mb-3">Mission</h3>
                             <p class="text-gray-600">
                                 At QuirkWeb Studios, our mission is to redefine digital experiences by seamlessly blending
@@ -128,7 +128,7 @@
                         </div>
 
                         <!-- Vision Card -->
-                        <div class="bg-white p-6 rounded-lg shadow-md">
+                        <div class="bg-white p-6 rounded-lg shadow-lg">
                             <h3 class="text-xl font-semibold mb-3">Vision</h3>
                             <p class="text-gray-600">
                                 QuirkWeb Studios envisions a digital landscape where every online presence is a work of art,
@@ -155,7 +155,9 @@ export default {
 }
 </script>
 
-<style scoped>.main-d {
+<style scoped>
+.main-d {
     background-color: purple;
     color: antiquewhite;
-}</style>
+}
+</style>
