@@ -1,6 +1,6 @@
 <template>
     <div tabindex="0" class="focus:outline-none">
-
+        <h1 class="font-bold  text-4xl my-4">Our Work</h1>
         <div class="mx-auto container">
             <div class="flex flex-wrap items-center lg:justify-center justify-center">
 
@@ -57,7 +57,7 @@ export default {
             try {
                 const response = await fetch('/websites.json');
                 this.doneWebsites = await response.json();
-                console.log('doneWebsites:', this.doneWebsites);
+
             } catch (error) {
                 console.error('Error fetching done websites:', error);
             }

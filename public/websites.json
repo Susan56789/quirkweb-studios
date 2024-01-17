@@ -1,46 +1,11 @@
 [
     {
         "id": 1,
-        "name": "Website 1",
-        "backgroundImage": "website1.jpg",
+        "name": "World Empire Safaris",
+        "backgroundImage": "/images/worldemp.png",
         "stackUsed": [
-            "HTML",
-            "CSS",
-            "JavaScript"
+            "Wordpress"
         ],
-        "previewUrl": "https://example.com/website1"
-    },
-    {
-        "id": 2,
-        "name": "Website 2",
-        "backgroundImage": "website2.jpg",
-        "stackUsed": [
-            "React",
-            "Node.js",
-            "MongoDB"
-        ],
-        "previewUrl": "https://example.com/website2"
-    },
-    {
-        "id": 3,
-        "name": "Website 1",
-        "backgroundImage": "website1.jpg",
-        "stackUsed": [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ],
-        "previewUrl": "https://example.com/website1"
-    },
-    {
-        "id": 4,
-        "name": "Website 2",
-        "backgroundImage": "website2.jpg",
-        "stackUsed": [
-            "React",
-            "Node.js",
-            "MongoDB"
-        ],
-        "previewUrl": "https://example.com/website2"
+        "previewUrl": "https://worldempiresafaris.co.ke/"
     }
 ]
