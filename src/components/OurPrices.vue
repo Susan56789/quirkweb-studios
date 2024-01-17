@@ -11,9 +11,9 @@
                         Choose a plan that works best for you and<br /> your team.
                     </p>
                 </div>
-                <div class="pt-24 flex flex-row">
+                <div class="pt-24  grid md:grid-cols-3 sm:grid-cols-1 gap-2">
                     <!-- Basic Card -->
-                    <div class="w-96 p-8 bg-white text-center rounded-3xl pr-16 shadow-xl">
+                    <div class="w-96 p-8 bg-white text-center rounded-3xl pr-16 shadow-xl col-span-1">
                         <h1 class="text-black font-semibold text-2xl">Basic</h1>
                         <p class="pt-2 tracking-wide">
                             <span class="text-gray-400 align-top">$ </span>
@@ -61,7 +61,7 @@
                     </div>
                     <!-- StartUp Card -->
                     <div
-                        class="w-80 p-8 bg-gray-900 text-center rounded-3xl text-white border-4 shadow-xl border-white transform scale-125">
+                        class="col-span-1 w-80 p-8 bg-gray-900 text-center rounded-3xl text-white border-4 shadow-xl border-white transform scale-125">
                         <h1 class="text-white font-semibold text-2xl">Startup</h1>
                         <p class="pt-2 tracking-wide">
                             <span class="text-gray-400 align-top">$ </span>
@@ -111,7 +111,7 @@
                         </div>
                     </div>
                     <!-- Enterprise Card -->
-                    <div class="w-96 p-8 bg-white text-center rounded-3xl pl-16 shadow-xl">
+                    <div class="col-span-1 w-96 p-8 bg-white text-center rounded-3xl pl-16 shadow-xl">
                         <h1 class="text-black font-semibold text-2xl">Enterprise</h1>
                         <p class="pt-2 tracking-wide">
                             <span class="text-gray-400 align-top">$ </span>
