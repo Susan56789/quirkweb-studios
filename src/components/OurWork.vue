@@ -2,10 +2,10 @@
     <div tabindex="0" class="focus:outline-none">
         <h1 class="font-bold  text-4xl my-4">Our Work</h1>
         <div class="mx-auto container">
-            <div class="flex flex-wrap items-center lg:justify-center justify-center shadow-lg">
+            <div class="flex flex-wrap items-center lg:justify-center justify-center shadow-2xl">
 
                 <div v-for="website in doneWebsites" :key="website.id" tabindex="0"
-                    class="focus:outline-none mx-2 w-72 xl:mb-0 mb-8">
+                    class="focus:outline-none mx-2 w-72 xl:mb-0 mb-8 shadow-lg">
                     <div>
                         <img alt="person capturing an image" :src="website.backgroundImage" tabindex="0"
                             class="focus:outline-none w-full h-44" />

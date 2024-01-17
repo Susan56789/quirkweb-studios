@@ -1,6 +1,6 @@
 
 <template>
-  <div class="w-full">
+  <div class="w-full ">
     <div x-data="{ open: true }"
       class="flex flex-col max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
       <div class="flex flex-row items-center justify-between p-4">

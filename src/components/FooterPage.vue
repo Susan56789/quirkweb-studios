@@ -1,7 +1,7 @@
 <template>
-    <div class="container mx-auto">
+    <div class="container mx-auto w-full">
 
-        <footer class="p-4 bg-white rounded-lg shadow md:px-6 md:py-8 dark:bg-gray-800">
+        <footer class="p-4 bg-white rounded-lg shadow md:px-6 md:py-8 dark:bg-gray-800 shadow-2xl">
             <section class="sm:flex sm:items-center sm:justify-between">
                 <a href="#" class="flex items-center mb-4 sm:mb-0">
                     <img src="/images/logo.png" class="mr-4 h-8" alt="QuirkWeb Studios Logo" />
