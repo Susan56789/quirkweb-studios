@@ -4,11 +4,11 @@
             <div class="">
                 <div class="text-center font-semibold">
                     <h1 class="text-5xl">
-                        <span class="text-purple-700 tracking-wide">Flexible </span>
-                        <span>Plans</span>
+                        <span class="text-purple-700 tracking-wide">Webdesign </span>
+                        <span>Packages</span>
                     </h1>
                     <p class="pt-6 text-xl text-gray-400 font-normal w-full px-8 md:w-full">
-                        Choose a plan that works best for you and<br /> your team.
+                        Choose a package that works best for you or <br /> your business.
                     </p>
                 </div>
                 <div class="pt-24  grid md:grid-cols-3 sm:grid-cols-1 gap-2">
@@ -16,9 +16,9 @@
                     <div class="w-96 p-8 bg-white text-center rounded-3xl pr-16 shadow-xl col-span-1">
                         <h1 class="text-black font-semibold text-2xl">Basic</h1>
                         <p class="pt-2 tracking-wide">
-                            <span class="text-gray-400 align-top">$ </span>
-                            <span class="text-3xl font-semibold">10</span>
-                            <span class="text-gray-400 font-medium">/ user</span>
+                            <span class="text-gray-400 align-top">KES. </span>
+                            <span class="text-3xl font-semibold">15,000</span>
+                            <!-- <span class="text-gray-400 font-medium">/ user</span> -->
                         </p>
                         <hr class="mt-4 border-1">
                         <div class="pt-8">
@@ -27,7 +27,7 @@
                                     done
                                 </span>
                                 <span class="pl-2">
-                                    Get started with <span class="text-black">messaging</span>
+                                    One Pager Scrollable with more sections
                                 </span>
                             </p>
                             <p class="font-semibold text-gray-400 text-left pt-5">
@@ -35,7 +35,7 @@
                                     done
                                 </span>
                                 <span class="pl-2">
-                                    Flexible <span class="text-black">team meetings</span>
+                                    Logo Placement & Branding
                                 </span>
                             </p>
                             <p class="font-semibold text-gray-400 text-left pt-5">
@@ -43,11 +43,51 @@
                                     done
                                 </span>
                                 <span class="pl-2">
-                                    <span class="text-black">5 TB</span> cloud storage
+                                    Loads Faster
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    Contact Form
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    Social Media
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    2 weeks FREE Support & Maintenace
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    Built on CMS
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    3-5 Days Delivery
                                 </span>
                             </p>
 
-                            <a href="#" class="">
+                            <a href="#contact" class="">
                                 <p class="w-full py-4 bg-purple-600 mt-8 rounded-xl text-white">
                                     <span class="font-medium">
                                         Choose Plan
@@ -64,9 +104,9 @@
                         class="col-span-1 w-80 p-8 bg-gray-900 text-center rounded-3xl text-white border-4 shadow-xl border-white transform scale-125">
                         <h1 class="text-white font-semibold text-2xl">Startup</h1>
                         <p class="pt-2 tracking-wide">
-                            <span class="text-gray-400 align-top">$ </span>
-                            <span class="text-3xl font-semibold">24</span>
-                            <span class="text-gray-400 font-medium">/ user</span>
+                            <span class="text-gray-400 align-top">KES. </span>
+                            <span class="text-3xl font-semibold">25,000</span>
+                            <!-- <span class="text-gray-400 font-medium">/ user</span> -->
                         </p>
                         <hr class="mt-4 border-1 border-gray-600">
                         <div class="pt-8">
@@ -75,7 +115,7 @@
                                     done
                                 </span>
                                 <span class="pl-2">
-                                    All features in <span class="text-white">Basic</span>
+                                    Basic Search
                                 </span>
                             </p>
                             <p class="font-semibold text-gray-400 text-left pt-5">
@@ -83,7 +123,7 @@
                                     done
                                 </span>
                                 <span class="pl-2">
-                                    Flexible <span class="text-white">call scheduling</span>
+                                    Google maps
                                 </span>
                             </p>
                             <p class="font-semibold text-gray-400 text-left pt-5">
@@ -91,11 +131,67 @@
                                     done
                                 </span>
                                 <span class="pl-2">
-                                    <span class="text-white">15 TB</span> cloud storage
+                                    Mobile Responsive
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    1-7 Inner Pages
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    Logo Placement
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    Database Driven
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    A good page layout
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    Built on CMS
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    5-7 Days Delivery
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    3 week FREE Support
                                 </span>
                             </p>
 
-                            <a href="#" class="">
+                            <a href="#contact" class="">
                                 <p class="w-full py-4 bg-purple-600 mt-8 rounded-xl text-white">
                                     <span class="font-medium">
                                         Choose Plan
@@ -114,9 +210,9 @@
                     <div class="col-span-1 w-96 p-8 bg-white text-center rounded-3xl pl-16 shadow-xl">
                         <h1 class="text-black font-semibold text-2xl">Enterprise</h1>
                         <p class="pt-2 tracking-wide">
-                            <span class="text-gray-400 align-top">$ </span>
-                            <span class="text-3xl font-semibold">35</span>
-                            <span class="text-gray-400 font-medium">/ user</span>
+                            <span class="text-gray-400 align-top">KES. </span>
+                            <span class="text-3xl font-semibold">45,000</span>
+                            <!-- <span class="text-gray-400 font-medium">/ user</span> -->
                         </p>
                         <hr class="mt-4 border-1">
                         <div class="pt-8">
@@ -125,7 +221,7 @@
                                     done
                                 </span>
                                 <span class="pl-2">
-                                    All features in <span class="text-black">Startup</span>
+                                    A good page layout
                                 </span>
                             </p>
                             <p class="font-semibold text-gray-400 text-left pt-5">
@@ -133,7 +229,7 @@
                                     done
                                 </span>
                                 <span class="pl-2">
-                                    Growth <span class="text-black">oriented</span>
+                                    Excellent User management with User
                                 </span>
                             </p>
                             <p class="font-semibold text-gray-400 text-left pt-5">
@@ -141,11 +237,67 @@
                                     done
                                 </span>
                                 <span class="pl-2">
-                                    <span class="text-black">Unlimited</span> cloud storage
+                                    Basic Search
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    Mobile Responsive
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    Google Maps
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    8 -15 Inner Pages
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    Onpage SEO
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    2-3 weeks delivery
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    Built on CMS
+                                </span>
+                            </p>
+                            <p class="font-semibold text-gray-400 text-left pt-5">
+                                <span class="material-icons align-middle">
+                                    done
+                                </span>
+                                <span class="pl-2">
+                                    1 month FREE Support
                                 </span>
                             </p>
 
-                            <a href="#" class="">
+                            <a href="#contact" class="">
                                 <p class="w-full py-4 bg-purple-600 mt-8 rounded-xl text-white">
                                     <span class="font-medium">
                                         Choose Plan

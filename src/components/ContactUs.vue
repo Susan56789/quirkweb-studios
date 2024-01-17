@@ -55,21 +55,21 @@
                         </div>
                         <div class="flex flex-col">
                             <h2 class="text-2xl">Call Us</h2>
-                            <p class="text-gray-400">Tel: +254701546830</p>
+                            <p class="text-gray-400">Tel: +254-796-486-115</p>
                             <!-- <p class="text-gray-400">Fax: xxx-xxx-xxx</p> -->
                         </div>
                     </div>
 
                     <div class="flex my-4 w-2/3 lg:w-1/2">
-                        <a href="https://www.facebook.com/" target="_blank" rel="noreferrer"
+                        <a href="https://www.facebook.com/quirkwebstudios" target="_blank" rel="noreferrer"
                             class="rounded-full bg-white h-8 w-8 inline-block mx-1 text-center pt-1">
                             <i class="fab fa-facebook-f text-purple-900" />
                         </a>
-                        <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"
+                        <!-- <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"
                             class="rounded-full bg-white h-8 w-8 inline-block mx-1 text-center pt-1">
                             <i class="fab fa-linkedin-in text-purple-900" />
-                        </a>
-                        <a href="https://www.twitter.com/" target="_blank" rel="noreferrer"
+                        </a> -->
+                        <a href="https://twitter.com/quirkwebstudios" target="_blank" rel="noreferrer"
                             class="rounded-full bg-white h-8 w-8 inline-block mx-1 text-center pt-1">
                             <i class="fab fa-twitter text-purple-900" />
                         </a>

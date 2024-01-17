@@ -15,10 +15,10 @@
         <AboutUs />
 
       </section>
-      <section id="done-websites" class="p-4 sm:p-8 md:p-12 lg:p-16 xl:p-20">
+      <!-- <section id="done-websites" class="p-4 sm:p-8 md:p-12 lg:p-16 xl:p-20">
 
         <OurWork />
-      </section>
+      </section> -->
 
 
       <section id="pricing" class="p-4 sm:p-8 md:p-12 lg:p-16 xl:p-20">
@@ -42,7 +42,6 @@ import NavBar from './NavBar.vue';
 import AboutUs from './AboutUs.vue';
 import OurPrices from './OurPrices.vue';
 import ContactUs from './ContactUs.vue';
-import OurWork from './OurWork.vue';
 import FooterPage from './FooterPage.vue';
 
 export default {
@@ -52,7 +51,6 @@ export default {
     AboutUs,
     OurPrices,
     ContactUs,
-    OurWork,
     FooterPage
   },
   data() {
