@@ -46,6 +46,7 @@ import OurWork from './OurWork.vue';
 import FooterPage from './FooterPage.vue';
 
 export default {
+  name: 'MainPage',
   components: {
     NavBar,
     AboutUs,

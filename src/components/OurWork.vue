@@ -1,6 +1,6 @@
 <template>
     <div tabindex="0" class="focus:outline-none">
-        >
+
         <div class="mx-auto container">
             <div class="flex flex-wrap items-center lg:justify-center justify-center">
 

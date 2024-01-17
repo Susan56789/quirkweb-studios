@@ -6,7 +6,7 @@
 
 import '@fortawesome/fontawesome-free/css/all.css';
 import './main.css'
-import MainPage from './components/MainPage.vue';
+import MainPage from '@/components/MainPage'
 
 
 export default {
