@@ -43,6 +43,7 @@ import AboutUs from './AboutUs.vue';
 import OurPrices from './OurPrices.vue';
 import ContactUs from './ContactUs.vue';
 import FooterPage from './FooterPage.vue';
+// import OurWork from './OurWork.vue';
 
 export default {
   name: 'MainPage',
@@ -51,7 +52,8 @@ export default {
     AboutUs,
     OurPrices,
     ContactUs,
-    FooterPage
+    FooterPage,
+
   },
   data() {
     return {
@@ -59,17 +61,13 @@ export default {
       darkMode: false,
     };
   },
-  mounted() {
-    this.fetchDoneWebsites();
-  },
+
   methods: {
     toggleTheme() {
       this.darkMode = !this.darkMode;
       document.documentElement.classList.toggle('dark', this.darkMode);
       localStorage.setItem('darkMode', this.darkMode);
     },
-
-
   },
   created() {
     const storedDarkMode = localStorage.getItem('darkMode');
