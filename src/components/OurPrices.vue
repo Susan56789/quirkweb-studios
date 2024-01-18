@@ -100,8 +100,8 @@
                         </div>
                     </div>
                     <!-- StartUp Card -->
-                    <div
-                        class="col-span-1 w-80 p-8 bg-gray-900 text-center rounded-3xl text-white border-4 shadow-xl border-white transform scale-125">
+                    <div class="col-span-1 w-80 p-8 bg-gray-900 text-center 
+                        rounded-3xl text-white border-4 shadow-xl border-white transform scale-125 mt-20 mb-20">
                         <h1 class="text-white font-semibold text-2xl">Startup</h1>
                         <p class="pt-2 tracking-wide">
                             <span class="text-gray-400 align-top">KES. </span>

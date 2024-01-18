@@ -32,7 +32,6 @@
                     </button>
                 </div>
             </div>
-
             <div class="w-full lg:-mt-96 lg:w-2/6 px-8 py-12 ml-auto bg-purple-900 rounded-2xl shadow-lg">
                 <div class="flex flex-col text-white">
                     <h1 class="font-bold uppercase text-4xl my-4">Get in touch</h1>
@@ -55,7 +54,7 @@
                         </div>
                         <div class="flex flex-col">
                             <h2 class="text-2xl">Call Us</h2>
-                            <p class="text-gray-400">Tel: +254-796-486-115</p>
+                            <p class="text-gray-400">Tel: +254796486115</p>
                             <!-- <p class="text-gray-400">Fax: xxx-xxx-xxx</p> -->
                         </div>
                     </div>

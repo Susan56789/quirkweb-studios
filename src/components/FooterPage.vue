@@ -10,7 +10,7 @@
                 </a>
                 <ul class="flex flex-wrap items-center mb-6 sm:mb-0">
                     <li>
-                        <a href="#about"
+                        <a href="#about-us"
                             class="mr-4 text-sm text-gray-500 hover:underline md:mr-6 dark:text-gray-400">About</a>
                     </li>
                     <li>
