@@ -6,9 +6,7 @@
                 <!-- About Us Section -->
                 <div class="w-full md:w-6/12 lg:w-4/12 px-4 mb-8 md:mb-0">
                     <div class="relative flex flex-col min-w-0 break-words bg-white w-full shadow-lg rounded-lg main-d">
-                        <img alt="..."
-                            src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=700&amp;q=80"
-                            class="w-full align-middle rounded-t-lg" />
+                        <img alt="..." src="/images/image1.jpg" class="w-full align-middle rounded-t-lg" />
                         <blockquote class="relative p-8 mb-4">
                             <h4 class="text-xl font-bold text-white">About Us</h4>
                             <p class="text-md font-light mt-2 text-white">
@@ -157,7 +155,7 @@ export default {
 
 <style scoped>
 .main-d {
-    background-color: purple;
+    background-color: PURPLE;
     color: antiquewhite;
 }
 </style>
