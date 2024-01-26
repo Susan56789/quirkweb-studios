@@ -15,15 +15,14 @@
         <AboutUs />
 
       </section>
-      <!-- <section id="done-websites" class="p-4 sm:p-8 md:p-12 lg:p-16 xl:p-20">
 
-        <OurWork />
-      </section> -->
-
-
-      <section id="pricing" class="p-4 sm:p-8 md:p-12 lg:p-16 xl:p-20">
-
+      <section id="designing-cost" class="p-4 sm:p-8 md:p-12 lg:p-16 xl:p-20">
         <OurPrices />
+      </section>
+
+      <section id="marketing-cost" class="p-4 sm:p-8 md:p-12 lg:p-16 xl:p-20">
+
+        <MarketingPage />
       </section>
 
       <section id="contact" class="p-4 sm:p-8 md:p-12 lg:p-16 xl:p-20">
@@ -43,7 +42,7 @@ import AboutUs from './AboutUs.vue';
 import OurPrices from './OurPrices.vue';
 import ContactUs from './ContactUs.vue';
 import FooterPage from './FooterPage.vue';
-// import OurWork from './OurWork.vue';
+import MarketingPage from './MarketingPage.vue';
 
 export default {
   name: 'MainPage',
@@ -53,6 +52,7 @@ export default {
     OurPrices,
     ContactUs,
     FooterPage,
+    MarketingPage
 
   },
   data() {
