@@ -60,17 +60,21 @@
                     </div>
 
                     <div class="flex my-4 w-2/3 lg:w-1/2">
-                        <a href="https://www.facebook.com/quirkwebstudios" target="_blank" rel="noreferrer"
+                        <a href="https://www.facebook.com/quirkwebstudio" target="_blank" rel="noreferrer"
                             class="rounded-full bg-white h-8 w-8 inline-block mx-1 text-center pt-1">
                             <i class="fab fa-facebook-f text-purple-900" />
                         </a>
-                        <!-- <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"
+                        <a href="https://www.tiktok.com/@quirkwebstudios?lang=en" target="_blank" rel="noreferrer"
                             class="rounded-full bg-white h-8 w-8 inline-block mx-1 text-center pt-1">
-                            <i class="fab fa-linkedin-in text-purple-900" />
-                        </a> -->
+                            <i class="fa-brands fa-tiktok" text-purple-900" />
+                        </a> 
                         <a href="https://twitter.com/quirkwebstudios" target="_blank" rel="noreferrer"
                             class="rounded-full bg-white h-8 w-8 inline-block mx-1 text-center pt-1">
                             <i class="fab fa-twitter text-purple-900" />
+                        </a>
+                         <a href="https://www.instagram.com/quirkweb_studios/" target="_blank" rel="noreferrer"
+                            class="rounded-full bg-white h-8 w-8 inline-block mx-1 text-center pt-1">
+                            <i class="fa-brands fa-instagram text-purple-900"/>
                         </a>
                     </div>
                 </div>
