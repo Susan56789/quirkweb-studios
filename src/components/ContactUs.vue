@@ -66,7 +66,7 @@
                         </a>
                         <a href="https://www.tiktok.com/@quirkwebstudios?lang=en" target="_blank" rel="noreferrer"
                             class="rounded-full bg-white h-8 w-8 inline-block mx-1 text-center pt-1">
-                            <i class="fa-brands fa-tiktok" text-purple-900" />
+                            <i class="fa-brands fa-tiktok text-purple-900"  />
                         </a> 
                         <a href="https://twitter.com/quirkwebstudios" target="_blank" rel="noreferrer"
                             class="rounded-full bg-white h-8 w-8 inline-block mx-1 text-center pt-1">
