@@ -54,7 +54,7 @@
                         </div>
                         <div class="flex flex-col">
                             <h2 class="text-2xl">Call Us</h2>
-                            <p class="text-gray-400">Tel: +254796486115</p>
+                            <p class="text-gray-400">Tel: +254 739 456722</p>
                             <!-- <p class="text-gray-400">Fax: xxx-xxx-xxx</p> -->
                         </div>
                     </div>
