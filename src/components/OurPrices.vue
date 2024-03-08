@@ -27,7 +27,7 @@
                                     done
                                 </span>
                                 <span class="pl-2">
-                                    One Pager Scrollable with more sections
+                                    3-5 Inner Pages
                                 </span>
                             </p>
                             <p class="font-semibold text-gray-400 text-left pt-5">
@@ -139,7 +139,7 @@
                                     done
                                 </span>
                                 <span class="pl-2">
-                                    1-7 Inner Pages
+                                    6-15 Inner Pages
                                 </span>
                             </p>
                             <p class="font-semibold text-gray-400 text-left pt-5">
@@ -261,7 +261,7 @@
                                     done
                                 </span>
                                 <span class="pl-2">
-                                    8 -15 Inner Pages
+                                    Unlimited Inner Pages
                                 </span>
                             </p>
                             <p class="font-semibold text-gray-400 text-left pt-5">
