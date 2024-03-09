@@ -8,7 +8,7 @@
                         <span>Packages</span>
                     </h1>
                     <p class="pt-6 text-xl text-gray-400 font-normal w-full px-8 md:w-full">
-                        Choose a package that works best for you or <br /> your business.
+                        Choose a package that works best for you or your business. <br /> Domain and hosting costs included.
                     </p>
                 </div>
                 <div class="pt-24  grid md:grid-cols-3 sm:grid-cols-1 gap-2">
@@ -17,7 +17,7 @@
                         <h1 class="text-black font-semibold text-2xl">Basic</h1>
                         <p class="pt-2 tracking-wide">
                             <span class="text-gray-400 align-top">KES. </span>
-                            <span class="text-3xl font-semibold">15,000</span>
+                            <span class="text-3xl font-semibold">18,000</span>
                             <!-- <span class="text-gray-400 font-medium">/ user</span> -->
                         </p>
                         <hr class="mt-4 border-1">
@@ -105,7 +105,7 @@
                         <h1 class="text-white font-semibold text-2xl">Startup</h1>
                         <p class="pt-2 tracking-wide">
                             <span class="text-gray-400 align-top">KES. </span>
-                            <span class="text-3xl font-semibold">25,000</span>
+                            <span class="text-3xl font-semibold">30,000</span>
                             <!-- <span class="text-gray-400 font-medium">/ user</span> -->
                         </p>
                         <hr class="mt-4 border-1 border-gray-600">
@@ -211,7 +211,7 @@
                         <h1 class="text-black font-semibold text-2xl">Enterprise</h1>
                         <p class="pt-2 tracking-wide">
                             <span class="text-gray-400 align-top">KES. </span>
-                            <span class="text-3xl font-semibold">45,000</span>
+                            <span class="text-3xl font-semibold">50,000</span>
                             <!-- <span class="text-gray-400 font-medium">/ user</span> -->
                         </p>
                         <hr class="mt-4 border-1">
