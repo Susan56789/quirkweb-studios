@@ -3,6 +3,9 @@ const SitemapPlugin = require('sitemap-webpack-plugin').default;
 
 module.exports = defineConfig({
   transpileDependencies: true,
+  devServer: {
+    proxy: 'https://email-server-woad.vercel.app/',
+  },
   configureWebpack: {
     plugins: [
       new SitemapPlugin({

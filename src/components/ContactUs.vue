@@ -101,20 +101,14 @@ export default {
     methods: {
         async sendMessage() {
             try {
-                const response = await fetch('https://email-server-woad.vercel.app/send-email', {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify(this.formData)
-                });
+                const axios = require('axios');
+                const response = await axios.post('https://email-server-woad.vercel.app/send-email', this.formData);
 
-                if (!response.ok) {
+                if (response.status !== 200) {
                     throw new Error('Failed to send email');
                 }
 
-                const data = await response.text();
-                console.log(data); // Log the response from the server
+                console.log(response.data); // Log the response from the server
 
                 // Reset form data after successful submission
                 this.formData = {
