@@ -108,8 +108,14 @@ export default {
                     },
                     body: JSON.stringify(this.formData)
                 });
+
+                if (!response.ok) {
+                    throw new Error('Failed to send email');
+                }
+
                 const data = await response.text();
                 console.log(data); // Log the response from the server
+
                 // Reset form data after successful submission
                 this.formData = {
                     firstName: '',
@@ -120,11 +126,10 @@ export default {
                 };
             } catch (error) {
                 console.error(error);
-                // Log the error message from the server
-                console.error('Server error:', error.message);
             }
         }
     }
+
 
 }
 </script>
