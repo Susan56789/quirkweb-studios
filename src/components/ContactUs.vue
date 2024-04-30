@@ -102,7 +102,7 @@ export default {
         async sendMessage() {
             try {
                 const axios = require('axios');
-                const response = await axios.post('https://email-server-woad.vercel.app/send-email', this.formData);
+                const response = await axios.post('https://email-server-zuki.onrender.com/send-email', this.formData);
 
                 if (response.status !== 200) {
                     throw new Error('Failed to send email');
