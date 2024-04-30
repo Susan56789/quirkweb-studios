@@ -101,6 +101,13 @@ export default {
     methods: {
         async sendMessage() {
             try {
+                // Check if any of the form fields are empty
+                if (!this.formData.firstName || !this.formData.lastName || !this.formData.email || !this.formData.phone || !this.formData.message) {
+                    alert('Please fill out all the fields');
+                    throw new Error('Please fill out all the fields');
+
+                }
+
                 const axios = require('axios');
                 const response = await axios.post('https://email-server-zuki.onrender.com/send-email', this.formData);
 
@@ -108,7 +115,6 @@ export default {
                     throw new Error('Failed to send email');
                 }
 
-                console.log(response.data); // Log the response from the server
 
                 // Reset form data after successful submission
                 this.formData = {
@@ -118,12 +124,14 @@ export default {
                     phone: '',
                     message: ''
                 };
+
+                // Alert user after successful submission
+                alert('Email sent successfully!');
             } catch (error) {
                 console.error(error);
             }
         }
     }
-
 
 }
 </script>
