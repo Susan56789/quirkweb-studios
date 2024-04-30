@@ -120,8 +120,11 @@ export default {
                 };
             } catch (error) {
                 console.error(error);
+                // Log the error message from the server
+                console.error('Server error:', error.message);
             }
         }
     }
+
 }
 </script>
