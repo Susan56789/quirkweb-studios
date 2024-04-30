@@ -101,7 +101,7 @@ export default {
     methods: {
         async sendMessage() {
             try {
-                const response = await fetch('https://email-server-woad.vercel.app/send-email', {
+                const response = await fetch('https://email-server-woad.vercel.app/api/send-email', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'
